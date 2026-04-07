@@ -41,9 +41,9 @@ python dkumanga.py https://www.kumanga.com/manga/1498/honey-lemon-soda -cm 10 -c
 
 ## Argumentos disponibles
 
-| Comando | Argumento largo | Descripción | Valor por defecto |
+| Alias | Argumento | Descripción | Valor por defecto |
 | :--- | :--- | :--- | :--- |
-| `url` | - | **(Requerido)** La URL principal del manga en Kumanga. | - |
+| | `url` | **(Requerido)** La URL principal del manga en Kumanga. | |
 | `-cm` | `--chapter-minimum` | Capítulo mínimo desde donde empezar a descargar (incluido). | `0` |
 | `-cx` | `--chapter-maximum` | Capítulo máximo hasta donde descargar (incluido). | `inf` (infinito) |
 | | `--archive` | Comprime automáticamente las imágenes de cada capítulo en un archivo `.cbz`. | `False` |
