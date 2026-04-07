@@ -1,6 +1,6 @@
 # DKumanga
 
-DKumanga es un script de línea de comandos desarrollado en Python para descargar capítulos de manga desde [enlace sospechoso eliminado]. El script opera exclusivamente mediante peticiones HTTP, sin depender de automatización de navegadores en segundo plano.
+DKumanga es un script de línea de comandos desarrollado en Python para descargar capítulos de manga desde [Kumanga](https://www.kumanga.com/). El script opera exclusivamente mediante peticiones HTTP, sin depender de automatización de navegadores en segundo plano.
 
 ## Funcionalidades implementadas
 
